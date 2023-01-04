@@ -1,5 +1,4 @@
 <h1>Hi, I'm Yves!</h1> 
-![](https://github.com/HallowsYves/HallowsYves/blob/main/Glitch%20Main.gif?raw=true)
 
 ![HallowsYves's GitHub stats](https://github-readme-stats.vercel.app/api?username=HallowsYves&show_icons=true&theme=gruvbox&hide_border=true)
 
