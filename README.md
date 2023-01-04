@@ -1,5 +1,4 @@
 <h1>Hi, I'm Yves!</h1> 
-![h](https://github.com/HallowsYves/HallowsYves/blob/main/Glitch%20Main.gif?raw=true)
 
 ## Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
