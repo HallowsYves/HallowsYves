@@ -1,4 +1,4 @@
-# Whats up! I'm Yves¡
+# Whats up! I'm Yves!
 
 ![HallowsYves GitHub stats](https://github-readme-stats.vercel.app/api?username=HallowsYves&show_icons=true&border=false&theme=gruvbox)
 ## Languages
