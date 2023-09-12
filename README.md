@@ -1,4 +1,4 @@
-# Whats up! I'm Yves Ω
+# Whats up! I'm Yves 🎃
 ![](https://github.com/HallowsYves/HallowsYves/blob/main/GlitchMain.gif)
 
 ## Languages
