@@ -2,6 +2,8 @@
 
 ## ✩ ABOUT ME ✩
 I'm a Computer Science major with a concentration in Cybersecurity, currently a junior at California State University, Fullerton (CSUF). I have a strong passion for security, privacy, and protecting systems from vulnerabilities. I enjoy exploring different aspects of cybersecurity, from penetration testing to secure coding and cryptography.
+
+Outside of computer science, I also make music! 🎵 you can check it out [here!](https://www.youtube.com/@pronouncedkez)
 ## TryHackMe Profile
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/vyves.png)
 
