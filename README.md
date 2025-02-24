@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&duration=2031&pause=1000&color=6B8D53&repeat=false&width=435&lines=%E2%9C%A6+ABOUT+ME+%E2%9C%A6)](https://git.io/typing-svg)
 ---
-I'm a Computer Science major with a concentration in Cybersecurity, currently a junior at California State University, Fullerton (CSUF). I have a strong passion for security, privacy, and protecting systems from vulnerabilities. I enjoy exploring different aspects of cybersecurity, from penetration testing to secure coding and cryptography.
+My Name is Yves Velasquez and I'm a Computer Science major with a concentration in Cybersecurity, currently a junior at California State University, Fullerton (CSUF). I have a strong passion for security, privacy, and protecting systems from vulnerabilities. I enjoy exploring different aspects of cybersecurity, from penetration testing to secure coding and cryptography.
 
 Outside of computer science, I also make music! 🎵 you can check it out [here!](https://www.youtube.com/@pronouncedkez)
 ## TryHackMe Profile
